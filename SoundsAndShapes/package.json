@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "howler": "^2.2.3",
+    "paper": "^0.12.17"
+  }
+}
